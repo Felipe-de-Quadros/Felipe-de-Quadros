@@ -1,4 +1,4 @@
-### Olá eu sou o Felipe de Quadros 🤙
+### Olá, eu sou o Felipe de Quadros 🤙
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-gobbi-de-quadros-004976248/)
 
